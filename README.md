@@ -7,5 +7,5 @@ A simple word count application in pyspark using rdds.<br/>
 Pyspark MapReduce Page Ranking implementation for single term and multi-term search query. <br/>
 Sample execution output : <br/>
 ![alt text](./1.PNG)
-![alt text](./2.PNG)
+
 
