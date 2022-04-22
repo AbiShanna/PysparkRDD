@@ -7,7 +7,6 @@ Pyspark MapReduce Page Ranking implementation for single term and multi-term sea
 Sample execution output : <br/>
 <br/>
 ![alt_text](1.PNG)
-<br/>
 ![alt_text](2.PNG)
 
 
