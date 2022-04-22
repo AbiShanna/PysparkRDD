@@ -5,7 +5,7 @@
   2. PageRanking:<br/>
   Pyspark MapReduce Page Ranking implementation for single term and multi-term search query. <br/><br/>
   Sample execution output : <br/><br/>
-  ![alt_text](1.PNG)<br/>
-  ![alt_text](2.PNG)
+  ![alt_text](1.png)<br/>
+  ![alt_text](2.png)
 
 
